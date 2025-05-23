@@ -1,0 +1,14 @@
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa1\obj\x86\Debug\wfa1.Form1.resources
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa1\obj\x86\Debug\wfa1.Resources.resources
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa1\obj\x86\Debug\wfa1.vbproj.GenerateResource.Cache
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa1\bin\Debug\wfa1.exe
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa1\bin\Debug\wfa1.pdb
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa1\bin\Debug\wfa1.xml
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa1\obj\x86\Debug\wfa1.exe
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa1\obj\x86\Debug\wfa1.xml
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa1\obj\x86\Debug\wfa1.pdb
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa1\obj\x86\Debug\wfa1.Form2.resources
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa1\obj\x86\Debug\wfa1.Menu.resources
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa1\obj\x86\Debug\wfa1.Form3.resources
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa1\obj\x86\Debug\wfa1.Form4.resources
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa1\obj\x86\Debug\wfa1.Form5.resources
