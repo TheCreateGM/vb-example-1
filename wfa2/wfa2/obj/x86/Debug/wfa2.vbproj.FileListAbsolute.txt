@@ -1,0 +1,27 @@
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa2\bin\Debug\wfa2.exe
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa2\bin\Debug\wfa2.pdb
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa2\bin\Debug\wfa2.xml
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa2\obj\x86\Debug\wfa2.Menu.resources
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa2\obj\x86\Debug\wfa2.Resources.resources
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa2\obj\x86\Debug\wfa2.vbproj.GenerateResource.Cache
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa2\obj\x86\Debug\wfa2.exe
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa2\obj\x86\Debug\wfa2.xml
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa2\obj\x86\Debug\wfa2.pdb
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa2\obj\x86\Debug\wfa2.Form1.resources
+C:\Users\axogm\Documents\Project\wfa2\wfa2\obj\x86\Debug\wfa2.exe
+C:\Users\axogm\Documents\Project\wfa2\wfa2\obj\x86\Debug\wfa2.xml
+C:\Users\axogm\Documents\Project\wfa2\wfa2\obj\x86\Debug\wfa2.pdb
+C:\Users\axogm\Documents\Project\wfa2\wfa2\bin\Debug\wfa2.exe
+C:\Users\axogm\Documents\Project\wfa2\wfa2\bin\Debug\wfa2.pdb
+C:\Users\axogm\Documents\Project\wfa2\wfa2\bin\Debug\wfa2.xml
+C:\Users\axogm\Documents\Project\wfa2\wfa2\obj\x86\Debug\wfa2.Form1.resources
+C:\Users\axogm\Documents\Project\wfa2\wfa2\obj\x86\Debug\wfa2.Form2.resources
+C:\Users\axogm\Documents\Project\wfa2\wfa2\obj\x86\Debug\wfa2.Menu.resources
+C:\Users\axogm\Documents\Project\wfa2\wfa2\obj\x86\Debug\wfa2.Resources.resources
+C:\Users\axogm\Documents\Project\wfa2\wfa2\obj\x86\Debug\wfa2.vbproj.GenerateResource.Cache
+C:\Users\axogm\Documents\Project\wfa2\wfa2\obj\x86\Debug\wfa2.Form3.resources
+C:\Users\axogm\Documents\Project\wfa2\wfa2\obj\x86\Debug\wfa2.Form4.resources
+C:\Users\axogm\Documents\Project\wfa2\wfa2\obj\x86\Debug\wfa2.Form5.resources
+C:\Users\axogm\Documents\Project\wfa2\wfa2\obj\x86\Debug\wfa2.Form6.resources
+C:\Users\axogm\Documents\Project\wfa2\wfa2\obj\x86\Debug\wfa2.Form7.resources
+C:\Users\axogm\Documents\Project\wfa2\wfa2\obj\x86\Debug\wfa2.Form8.resources
