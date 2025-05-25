@@ -1,0 +1,25 @@
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa3\bin\Debug\wfa3.exe
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa3\bin\Debug\wfa3.pdb
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa3\bin\Debug\wfa3.xml
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa3\obj\x86\Debug\wfa3.Form1.resources
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa3\obj\x86\Debug\wfa3.Resources.resources
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa3\obj\x86\Debug\wfa3.vbproj.GenerateResource.Cache
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa3\obj\x86\Debug\wfa3.exe
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa3\obj\x86\Debug\wfa3.xml
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa3\obj\x86\Debug\wfa3.pdb
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa3\obj\x86\Debug\wfa3.Menu.resources
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa3\obj\x86\Debug\wfa3.Form2.resources
+C:\Users\axogm\AppData\Local\Temporary Projects\wfa3\obj\x86\Debug\wfa3.Form3.resources
+C:\Users\axogm\Documents\Project\wfa3\wfa3\obj\x86\Debug\wfa3.exe
+C:\Users\axogm\Documents\Project\wfa3\wfa3\obj\x86\Debug\wfa3.xml
+C:\Users\axogm\Documents\Project\wfa3\wfa3\obj\x86\Debug\wfa3.pdb
+C:\Users\axogm\Documents\Project\wfa3\wfa3\bin\Debug\wfa3.exe
+C:\Users\axogm\Documents\Project\wfa3\wfa3\bin\Debug\wfa3.pdb
+C:\Users\axogm\Documents\Project\wfa3\wfa3\bin\Debug\wfa3.xml
+C:\Users\axogm\Documents\Project\wfa3\wfa3\obj\x86\Debug\wfa3.Form1.resources
+C:\Users\axogm\Documents\Project\wfa3\wfa3\obj\x86\Debug\wfa3.Form2.resources
+C:\Users\axogm\Documents\Project\wfa3\wfa3\obj\x86\Debug\wfa3.Form3.resources
+C:\Users\axogm\Documents\Project\wfa3\wfa3\obj\x86\Debug\wfa3.Form4.resources
+C:\Users\axogm\Documents\Project\wfa3\wfa3\obj\x86\Debug\wfa3.Menu.resources
+C:\Users\axogm\Documents\Project\wfa3\wfa3\obj\x86\Debug\wfa3.Resources.resources
+C:\Users\axogm\Documents\Project\wfa3\wfa3\obj\x86\Debug\wfa3.vbproj.GenerateResource.Cache
