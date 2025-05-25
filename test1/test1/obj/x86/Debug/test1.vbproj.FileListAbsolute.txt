@@ -1,0 +1,11 @@
+C:\Users\axogm\AppData\Local\Temporary Projects\test1\bin\Debug\test1.exe
+C:\Users\axogm\AppData\Local\Temporary Projects\test1\bin\Debug\test1.pdb
+C:\Users\axogm\AppData\Local\Temporary Projects\test1\bin\Debug\test1.xml
+C:\Users\axogm\AppData\Local\Temporary Projects\test1\obj\x86\Debug\test1.Form1.resources
+C:\Users\axogm\AppData\Local\Temporary Projects\test1\obj\x86\Debug\test1.Form2.resources
+C:\Users\axogm\AppData\Local\Temporary Projects\test1\obj\x86\Debug\test1.Resources.resources
+C:\Users\axogm\AppData\Local\Temporary Projects\test1\obj\x86\Debug\test1.vbproj.GenerateResource.Cache
+C:\Users\axogm\AppData\Local\Temporary Projects\test1\obj\x86\Debug\test1.exe
+C:\Users\axogm\AppData\Local\Temporary Projects\test1\obj\x86\Debug\test1.xml
+C:\Users\axogm\AppData\Local\Temporary Projects\test1\obj\x86\Debug\test1.pdb
+C:\Users\axogm\AppData\Local\Temporary Projects\test1\obj\x86\Debug\test1.Menu.resources
